@@ -1,23 +1,41 @@
 [
   {
-    "title": "Climate Change Impacts on Agriculture",
-    "authors": "Smith, J.; Lee, A.",
-    "year": 2022,
-    "keywords": "climate, agriculture, sustainability",
-    "url": "https://example.com/dataset1"
+    "title": "MIMIC-IV-Ext-CEKG",
+    "domain": "healthcare",
+    "origin": "clinic", 
+    "data type": "OCEL",
+    "keywords": "process mining",
+    "events": "121,577,735",
+    "activities": "95",
+    "creator": "Milad Naeimaei Aali, Felix Mannhardt, Pieter Jelle Toussaint", 
+    "year": "2025",
+    "publication": "PhysioNet",
+    "url": "https://mnaeimaei.github.io/MIMIC-IV-Ext-CEKG/index.html"
   },
   {
-    "title": "Genomic Data of Marine Species",
-    "authors": "Garcia, M.; Patel, R.",
-    "year": 2021,
-    "keywords": "genomics, marine biology, DNA",
-    "url": "https://example.com/dataset2"
+    "title": "BPI Challenge 2019",
+    "domain": "manufactoring",
+    "origin": "company",
+    "data type": "CSV",
+    "keywords": "process mining, compliance checking",
+    "events": "1,595,923",
+    "activities": "42",
+    "creator": " Boudewijn van Dongen",
+    "year": "2019",
+    "publication": "ICPM",
+    "url": "https://data.4tu.nl/articles/_/12715853/1"
   },
   {
-    "title": "Test",
-    "authors": "Garcia, M.; Patel, R.",
-    "year": 2021,
-    "keywords": "genomics, marine biology, DNA",
-    "url": "https://example.com/dataset2"
+    "title": "Sepsis Cases - Event Log",
+    "domain": "healthcare",
+    "origin": "clinic",
+    "data type": "XES",
+    "keywords": "process mining",
+    "events": "15,000",
+    "activities": "16",
+    "creator": "Felix Mannhardt",
+    "year": "2016",
+    "publication": "BPMDS",
+    "url": "https://data.4tu.nl/datasets/33632f3c-5c48-40cf-8d8f-2db57f5a6ce7"
   }
 ]
