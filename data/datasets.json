@@ -14,10 +14,10 @@
   },
   {
     "title": "BPI Challenge 2019",
-    "domain": "manufactoring",
+    "domain": "manufacturing",
     "origin": "company",
     "data type": "CSV",
-    "keywords": "process mining, compliance checking",
+    "keywords": "process mining",
     "events": "1,595,923",
     "activities": "42",
     "creator": " Boudewijn van Dongen",
