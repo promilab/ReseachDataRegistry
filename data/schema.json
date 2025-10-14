@@ -3,13 +3,9 @@
   "type": "array",
   "items": {
     "type": "object",
-    "required": ["title", "authors", "year", "keywords", "url"],
+    "required": ["title"],
     "properties": {
-      "title": { "type": "string" },
-      "authors": { "type": "string" },
-      "year": { "type": "integer" },
-      "keywords": { "type": "string" },
-      "url": { "type": "string", "format": "uri" }
+      "title": { "type": "string" }
     },
     "additionalProperties": false
   }
