@@ -4,9 +4,15 @@ $(document).ready(function() {
       data: data,
       columns: [
         { data: "title" },
-        { data: "authors" },
-        { data: "year" },
+        { data: "domain" },
+        { data: "origin" },
+        { data: "data type" },
         { data: "keywords" },
+        { data: "events" },
+        { data: "activities" },
+        { data: "creator" },
+        { data: "year" },
+        { data: "publication" }, 
         { 
           data: "url",
           render: function(data) {
