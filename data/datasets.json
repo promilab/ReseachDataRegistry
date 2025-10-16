@@ -20,10 +20,23 @@
     "keywords": "process mining",
     "events": "1,595,923",
     "activities": "42",
-    "creator": " Boudewijn van Dongen",
+    "creator": "Boudewijn van Dongen",
     "year": "2019",
     "publication": "ICPM",
     "url": "https://data.4tu.nl/articles/_/12715853/1"
+  },
+  {
+    "title": "BPI Challenge 2016",
+    "domain": "clickdata",
+    "origin": "insurance agency",
+    "data type": "CSV",
+    "keywords": "process mining",
+    "events": "9,329,416",
+    "activities": "",
+    "creator": "Marcus Dees, Boudewijn van Dongen",
+    "year": "2016",
+    "publication": "ICPM",
+    "url": "https://data.4tu.nl/articles/_/12708596/1"
   },
   {
     "title": "Sepsis Cases - Event Log",
