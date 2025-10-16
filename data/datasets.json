@@ -13,6 +13,58 @@
     "url": "https://mnaeimaei.github.io/MIMIC-IV-Ext-CEKG/index.html"
   },
   {
+    "title": "Container Logistics Object-centric Event Log",
+    "domain": "logistics",
+    "origin": "Simulation", 
+    "data type": "OCEL",
+    "keywords": "process mining",
+    "events": "35761",
+    "activities": "14",
+    "creator": "Benedikt Knopp, Nina Graves", 
+    "year": "2023",
+    "publication": "",
+    "url": "https://zenodo.org/records/8428084"
+  },
+  {
+    "title": "Order Management Object-centric Event Log in OCEL 2.0 Standard",
+    "domain": "order management",
+    "origin": "Simulation", 
+    "data type": "OCEL",
+    "keywords": "process mining",
+    "events": "21008",
+    "activities": "11",
+    "creator": "Benedikt Knopp, Will M.P. van der Aalst", 
+    "year": "2023",
+    "publication": "",
+    "url": "https://zenodo.org/records/8428112"
+  },
+  {
+    "title": "Procure-To-Payment (P2P) Object-centric Event Log in OCEL 2.0 Standard",
+    "domain": "procurementt",
+    "origin": "Simulation", 
+    "data type": "OCEL",
+    "keywords": "process mining",
+    "events": "14671",
+    "activities": "10",
+    "creator": "Gyunam Park,  Leah Tacke genannt Unterberg", 
+    "year": "2023",
+    "publication": "",
+    "url": "https://zenodo.org/records/8412920"
+  },
+  {
+    "title": "Angular GitHub Commits Object-centric Event Log",
+    "domain": "software engineering",
+    "origin": "GitHub", 
+    "data type": "OCEL",
+    "keywords": "process mining",
+    "events": "27847",
+    "activities": "67",
+    "creator": "Marco Pegoraro", 
+    "year": "2023",
+    "publication": "",
+    "url": "https://zenodo.org/records/8430332"
+  },
+  {
     "title": "BPI Challenge 2019",
     "domain": "manufacturing",
     "origin": "company",
@@ -26,7 +78,7 @@
     "url": "https://data.4tu.nl/articles/_/12715853/1"
   },
   {
-    "title": "BPI Challenge 2016",
+    "title": "BPI Challenge 2016: Clicks NOT Logged In",
     "domain": "clickdata",
     "origin": "insurance agency",
     "data type": "CSV",
@@ -37,6 +89,19 @@
     "year": "2016",
     "publication": "ICPM",
     "url": "https://data.4tu.nl/articles/_/12708596/1"
+  },
+  {
+    "title": "BPI Challenge 2016: Clicks Logged In",
+    "domain": "clickdata",
+    "origin": "insurance agency",
+    "data type": "CSV",
+    "keywords": "process mining",
+    "events": "7,174,934",
+    "activities": "",
+    "creator": "Marcus Dees, Boudewijn van Dongen",
+    "year": "2016",
+    "publication": "ICPM",
+    "url": "https://data.4tu.nl/articles/_/12674816/1"
   },
   {
     "title": "Sepsis Cases - Event Log",
