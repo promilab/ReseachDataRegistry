@@ -40,7 +40,7 @@
   },
   {
     "title": "Procure-To-Payment (P2P) Object-centric Event Log in OCEL 2.0 Standard",
-    "domain": "procurementt",
+    "domain": "procurement",
     "origin": "Simulation", 
     "data type": "OCEL",
     "keywords": "process mining",
