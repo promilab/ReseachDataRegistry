@@ -130,6 +130,32 @@
     "url": "https://data.4tu.nl/articles/_/12674816/1"
   },
   {
+    "title": "BPI Challenge 2015 Municipality 4",
+    "domain": "administration",
+    "origin": "municipality",
+    "data type": "XES",
+    "keywords": "process mining",
+    "events": "47,293",
+    "activities": "356",
+    "creator": "Boudewijn van Dongen",
+    "year": "2015",
+    "publication": "",
+    "url": "https://data.4tu.nl/articles/_/12697898/1"
+  },
+  {
+    "title": "BPI Challenge 2013, incidents",
+    "domain": "IT management",
+    "origin": "company",
+    "data type": "XES",
+    "keywords": "process mining",
+    "events": "65,533",
+    "activities": "13",
+    "creator": "Ward Steeman",
+    "year": "2013",
+    "publication": "",
+    "url": "https://data.4tu.nl/articles/_/12693914/1"
+  },
+  {
     "title": "Sepsis Cases - Event Log",
     "domain": "healthcare",
     "origin": "clinic",
