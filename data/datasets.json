@@ -52,6 +52,19 @@
     "url": "https://zenodo.org/records/8412920"
   },
   {
+    "title": "sOCEL 2.0: A Sustainability-Enriched OCEL of a Hinge Production Process",
+    "domain": "manufacturing",
+    "origin": "Simulation", 
+    "data type": "OCEL",
+    "keywords": "process mining",
+    "events": "3850",
+    "activities": "11",
+    "creator": "Marco Heinisch", 
+    "year": "2024",
+    "publication": "",
+    "url": "https://zenodo.org/records/13638681"
+  },
+  {
     "title": "Angular GitHub Commits Object-centric Event Log",
     "domain": "software engineering",
     "origin": "GitHub", 
@@ -63,6 +76,19 @@
     "year": "2023",
     "publication": "",
     "url": "https://zenodo.org/records/8430332"
+  },
+  {
+    "title": "Object-Centric Event Log for Age of Empires Game Interactions",
+    "domain": "gaming",
+    "origin": "game", 
+    "data type": "OCEL",
+    "keywords": "process mining",
+    "events": "2,372,505",
+    "activities": "829",
+    "creator": "Lukas Liss, Nico Elbert, Christoph M. Flath, Will M.P. van der Aalst", 
+    "year": "2024",
+    "publication": "",
+    "url": "https://zenodo.org/records/13365584"
   },
   {
     "title": "BPI Challenge 2019",
