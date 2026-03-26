@@ -34,7 +34,7 @@ The description of the data in the overview follows the metadata model ProMeta a
 - Schreiber, C., Fritsch, A., Schiefer, G., & Oberweis, A. (2025). Towards a Metadata Model for Process Data. In EMISA (p. 13).
 
 ## Contributing
-To suggest additional data sources or would like to add other changes to the overview please use the following form: 
+To register additional data sources use the following form: 
 
 [Register](https://forms.cloud.microsoft/e/skZ6s5ivFA)
 
