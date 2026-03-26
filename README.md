@@ -1,10 +1,10 @@
 # Research Data Registry for Process Science
 
-This data overview was created as part of the [NFDIxCS](https://nfdixcs.org/) project. It provides an overview of existing public data available for research in process science.
+This data overview was created as part of the [NFDIxCS](https://nfdixcs.org/) project. It provides an overview of existing public data available for research in process science. The overview can be accessed here: 
 
-The overview can be accessed here: https://promilab.github.io/ReseachDataRegistry/
+https://promilab.github.io/ReseachDataRegistry/ .
 
-## Domains Included
+Currently the collection contains data from a variety of domains such as: 
 - Software Engineering
 - Human-Computer Interaction
 - Logistics
