@@ -35,7 +35,8 @@ The description of the data in the overview follows the metadata model ProMeta a
 
 ## Contributing
 To suggest additional data sources or would like to add other changes to the overview please use the following form: 
-https://forms.cloud.microsoft/e/skZ6s5ivFA
+
+[Register](https://forms.cloud.microsoft/e/skZ6s5ivFA)
 
 We aim to continuously update this research data overview to support the process science community. The following workflow describes how researchers or organizations can make their data easier accessible to other researchers by registering their data on our website. 
 
