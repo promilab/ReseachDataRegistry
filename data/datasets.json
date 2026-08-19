@@ -167,5 +167,44 @@
     "year": "2016",
     "publication": "BPMDS",
     "url": "https://data.4tu.nl/datasets/33632f3c-5c48-40cf-8d8f-2db57f5a6ce7"
+  },
+    {
+    "title": "Model Collection of the Business Process Management Academic Initiative (BPMAI)",
+    "domain": "business process management",
+    "origin": "academic modeling platform",
+    "data type": "JSON",
+    "keywords": "process modeling",
+    "events": "",
+    "activities": "",
+    "creator": "Jan Mendling, Henrik Leopold, Han van der Aa, Hajo A. Reijers, Marlon Dumas, Marcello La Rosa, Mathias Weske",
+    "year": "2020",
+    "publication": "Zenodo",
+    "url": "https://zenodo.org/records/3758705"
+  },
+  {
+    "title": "Lindholmen Dataset of UML Models",
+    "domain": "software engineering",
+    "origin": "GitHub",
+    "data type": "UML",
+    "keywords": "software modeling",
+    "events": "",
+    "activities": "",
+    "creator": "Michel R.V. Chaudron, Regina Hebig, Gregorio Robles, Truong Ho-Quang",
+    "year": "2017",
+    "publication": "",
+    "url": "https://models-db.com/"
+  },
+  {
+    "title": "Golden UML Modelset",
+    "domain": "software engineering",
+    "origin": "community curated",
+    "data type": "UML",
+    "keywords": "software modeling",
+    "events": "",
+    "activities": "",
+    "creator": "Charlotte Verbruggen, Lukas Netz, Philipp-Lorenz Glaser, Marion Scholz, Christian Huemer, Marco Calamo, Bernhard Rumpe, Monique Snoeck, Dominik Bork",
+    "year": "2025",
+    "publication": "MODELS Educators Symposium",
+    "url": "https://github.com/Charlotte-Verbruggen/GoldenUMLmodelset"
   }
 ]
